@@ -1,7 +1,7 @@
-·É´¬´óÕ½ÍâĞÇÈËÓÎÏ·´úÂë
+é£èˆ¹å¤§æˆ˜å¤–æ˜Ÿäººæ¸¸æˆå­¦ä¹ ä»£ç 
+
+ä»£ç ä¸‹è½½ï¼š
 
 git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/caioo0/alien.git
-git push -u origin master
+
+git clone https://github.com/caioo0/alien.git
